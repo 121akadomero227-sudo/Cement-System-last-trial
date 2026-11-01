@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,json
 version = 1.0
 requirements = python3==3.11.5,hostpython3==3.11.5,kivy==2.3.0,pyjnius,android
-orientation = portrait
+orientation = portrait, landscape, landscape-reverse
 fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
 presplash.filename = %(source.dir)s/presplash.png
